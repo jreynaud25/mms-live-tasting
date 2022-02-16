@@ -1,5 +1,5 @@
 const API_BASE_URL = process.env.REACT_APP_SERVER_URL;
-// const API_BASE_URL = "http://localhost:9000";
+
 
 // API call to generate authentication token
 export const getToken = async () => {
