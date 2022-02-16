@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useEffect, useRef, useState } from "react";
 import { Row, Col } from 'react-simple-flex-grid';
